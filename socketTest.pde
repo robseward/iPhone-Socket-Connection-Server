@@ -10,7 +10,7 @@ Server myServer;
 HashMap ipToId;
 int maxUsers = 10;
 int activeUsers = 0;
-color[] colors = {#FF0000, #00FF00, #0000FF, #00FFFF};
+color[] colors = {#FF0000, #00FF00, #0000FF, #66FFFF, #66FFCC, #66FF99, #66FF66, #66FF33, #66FF00, #6699FF};
 
 Point[] userPositions = new Point[maxUsers];
 
